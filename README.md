@@ -1,38 +1,25 @@
-<p align='left'>
-    <img  src='../logo.png' height='70px'>
-</p>
-<table width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=08-HTML">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
 
-# Lección 8: Fundamentos HTML/CSS
 
-En esta clase veremos:
+# Lección: Fundamentos HTML/CSS
 
-* Introducción a HTML.
-* Elementos/tags HTML básicos.
-* Introducción a CSS.
-* Selectores CSS y el tag \<style\> .
-* Estilos Básicos.
-* Modelo de Caja.
-* Hojas de estilos externas y el tag \<link\>.
+Se verá:
+
+* Introducción a HTML. (verificado)
+* Elementos/tags HTML básicos. (no verificado)(atributos)
+* Introducción a CSS.(no verificado)(atributos)
+* Selectores CSS y el tag \<style\> .(no verificado)
+* Estilos Básicos.(no verificado)
+* Modelo de Caja.(no verificado)
+* Hojas de estilos externas y el tag \<link\>.(no verificado)
 
 ## Introducción HTML
 
-HTML es el bloque básico con el que está construido internet. Todas las páginas web utilizan HTML. *No es un lenguaje de programación* propiamente dicho, sino, es un lenguaje de [**Markup**](https://es.wikipedia.org/wiki/Lenguaje_de_marcado): son lenguajes que incorporan al texto marcas o etiquetas que luego son interpretadas para darle información extra sobre la estructura del texto. En el caso de HTML, este será interpretado por los browsers, que tambien presentaran el código en forma gráfica.
+HTML es el bloque básico con el que está construido internet. Todas las páginas web utilizan HTML. *No es un lenguaje de programación* propiamente dicho, sino, es un lenguaje de maquetado.  Ver [**Markup**](https://es.wikipedia.org/wiki/Lenguaje_de_marcado): Son lenguajes que incorporan al texto marcas o etiquetas que luego son interpretadas para darle información extra sobre la estructura del texto. En el caso de HTML, este será interpretado por los bnavegadores(chorme, mozilla, explorer, etc), que tambien presentaran el código en forma gráfica.
 
 HTML es la abreviatura de **Hyper Text Markup Language**:
 
   - Hyper Text: "Hyper Texto" quiere decir [texto con links](https://es.wikipedia.org/wiki/Hipertexto)
-  - Markup Language: Los "Lenguajes de Marcado" son lenguajes de programación basados en etiquetas que uno agrega a un texto para darle estructura e información adicional. A diferencia de los "Lenguajes de Scripting" que se usan para crear programas informáticos, los lenguajes de marcado son sólo reglas para ordenar un documento.
+  - Markup Language: Los "Lenguajes de Maquedado" son lenguajes de programación basados en etiquetas que uno agrega a un texto para darle estructura e información adicional. A diferencia de los "Lenguajes de Scripting" que se usan para crear programas informáticos, los lenguajes de marcado son sólo reglas para ordenar un documento.
 
 ## Elementos básicos HTML
 
