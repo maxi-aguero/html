@@ -14,12 +14,16 @@ Se verá:
 
 ## Introducción HTML
 
-HTML es el bloque básico con el que está construido internet. Todas las páginas web utilizan HTML. *No es un lenguaje de programación* propiamente dicho, sino, es un lenguaje de maquetado.  Ver [**Markup**](https://es.wikipedia.org/wiki/Lenguaje_de_marcado): Son lenguajes que incorporan al texto marcas o etiquetas que luego son interpretadas para darle información extra sobre la estructura del texto. En el caso de HTML, este será interpretado por los bnavegadores(chorme, mozilla, explorer, etc), que tambien presentaran el código en forma gráfica.
+HTML (HyperText Markup Language) es el fundamento de todas las páginas web. Todas las páginas en internet utilizan HTML. No es un lenguaje de programación en el sentido estricto, sino un lenguaje de marcado.
 
-HTML es la abreviatura de **Hyper Text Markup Language**:
+**¿Qué es un lenguaje de marcado?**
+Un lenguaje de marcado utiliza etiquetas que se añaden al texto para proporcionar información adicional sobre su estructura y formato. En el caso de HTML, los navegadores (como Chrome, Firefox, Internet Explorer, etc.) leen estas etiquetas y muestran el contenido de manera visual.
 
-  - Hyper Text: "Hyper Texto" quiere decir [texto con links](https://es.wikipedia.org/wiki/Hipertexto)
-  - Markup Language: Los "Lenguajes de Maquedado" son lenguajes de programación basados en etiquetas que uno agrega a un texto para darle estructura e información adicional. A diferencia de los "Lenguajes de Scripting" que se usan para crear programas informáticos, los lenguajes de marcado son sólo reglas para ordenar un documento.
+## ¿Qué significa HTML?
+HTML significa Hyper Text Markup Language:
+
+Hyper Text (Hipertexto): Se refiere a texto que contiene enlaces a otros textos.
+Markup Language (Lenguaje de Marcado): Es un tipo de lenguaje que utiliza etiquetas para definir la estructura y la presentación del texto. A diferencia de los lenguajes de programación, que crean aplicaciones, los lenguajes de marcado simplemente organizan y formatean documentos.
 
 ## Elementos básicos HTML
 
