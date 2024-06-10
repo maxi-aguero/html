@@ -5,8 +5,8 @@
 Se verá:
 
 * Introducción a HTML. (verificado)
-* Elementos/tags HTML básicos. (no verificado)(atributos)
-* Introducción a CSS.(no verificado)(atributos)
+* Elementos/tags HTML básicos. (verificado)
+* Introducción a CSS.(no verificado)
 * Selectores CSS y el tag \<style\> .(no verificado)
 * Estilos Básicos.(no verificado)
 * Modelo de Caja.(no verificado)
