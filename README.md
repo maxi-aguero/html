@@ -43,7 +43,7 @@ Algunos tags html, por su naturaleza, no necesitan tener nada *adentro*. Por lo 
 ```html
   <img src="http://imagen.com/img.jpg" />
 ```
-
+(ampliar seccion imagen)
 ### Atributos
 
 En su mayoría de los atributos de un elemento son pares *nombre-valor*, separados por un signo de igual «=» y escritos en la etiqueta de comienzo de un elemento, después del nombre del elemento. El valor puede estar rodeado por comillas dobles o simples. Los atributos de los tags nos sirven para cambiar su comportamiento o *configurarlos*.
