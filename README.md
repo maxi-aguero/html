@@ -14,16 +14,23 @@ Se verá:
 
 ## Introducción HTML
 
-HTML (HyperText Markup Language) es el fundamento de todas las páginas web. Todas las páginas en internet utilizan HTML. No es un lenguaje de programación en el sentido estricto, sino un lenguaje de marcado.
+HTML (HyperText Markup Language) es el fundamento de todas las páginas web. Todas las páginas en internet utilizan HTML. Define la estructura, semántica y contenido de las páginas Web. No es un lenguaje de programación en el sentido estricto, sino un Lenguaje de marcado de hipertexto.
 
 **¿Qué es un lenguaje de marcado?**
-Un lenguaje de marcado utiliza etiquetas que se añaden al texto para proporcionar información adicional sobre su estructura y formato. En el caso de HTML, los navegadores (como Chrome, Firefox, Internet Explorer, etc.) leen estas etiquetas y muestran el contenido de manera visual.
+Un lenguaje de marcado utiliza etiquetas que se añaden al texto para proporcionar información adicional sobre su estructura y formato. Los navegadores (como Chrome, Firefox, Internet Explorer, etc.)  interpreta el HTML y lo representan en pantalla. Permite agregar texto, imágenes, enlaces, tablas, listas, formularios, etc.
 
 ## ¿Qué significa HTML?
 HTML significa Hyper Text Markup Language:
 
-Hyper Text (Hipertexto): Se refiere a texto que contiene enlaces a otros textos.<br>
+Hyper Text (Hipertexto): Sistema que permite enlazar fragmentos de textos entre sí. Permite que la lectura no sea lineal, sino que el usuario acceda a la información a través de los ítems relacionados.<br>
 Markup Language (Lenguaje de Marcado): Es un tipo de lenguaje que utiliza etiquetas para definir la estructura y la presentación del texto. A diferencia de los lenguajes de programación, que crean aplicaciones, los lenguajes de marcado simplemente organizan y formatean documentos.
+
+## Editores de texto ¿qué usamos para escribir HTML?
+
+Hay muchos disponibles, desde el bloc de notas de tu sistema operativo hasta algunos multiplataforma como Visual Studio Code.
+https://notepad-plus-plus.org/downloads/
+https://code.visualstudio.com/download/
+(obs: busca la version compatible con tu sistema operativo)
 
 ## Elementos básicos HTML
 
@@ -139,6 +146,11 @@ Son los tags que contienen los items de la lista ('list item').
     </li>
   </ul>
 ```
+
+## Estructura de una Página Web
+Estas etiquetas ayudan a definir la clase de contenido tendrá una página Web <br>
+Describen su significado tanto para el navegador como para el desarrollador. Através de ellas los navegadores y buscadores reconocen patrones y una estructura determinada. <br>
+Debemos respetarlas porque ayudan al navegador a entender su significado para mostrarlo en pantalla y ayudan a los buscadores a reconocer el contenido y la estructura del sitio.
 
 ## CSS
 
