@@ -22,7 +22,7 @@ Un lenguaje de marcado utiliza etiquetas que se añaden al texto para proporcion
 ## ¿Qué significa HTML?
 HTML significa Hyper Text Markup Language:
 
-Hyper Text (Hipertexto): Se refiere a texto que contiene enlaces a otros textos.
+Hyper Text (Hipertexto): Se refiere a texto que contiene enlaces a otros textos.<br>
 Markup Language (Lenguaje de Marcado): Es un tipo de lenguaje que utiliza etiquetas para definir la estructura y la presentación del texto. A diferencia de los lenguajes de programación, que crean aplicaciones, los lenguajes de marcado simplemente organizan y formatean documentos.
 
 ## Elementos básicos HTML
